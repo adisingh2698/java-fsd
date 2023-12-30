@@ -1,0 +1,2 @@
+This is a sample text for writing to a file.
+This text is appended to the file.
