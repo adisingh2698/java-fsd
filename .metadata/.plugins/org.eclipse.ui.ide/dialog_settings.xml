@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<section name="NewWizardAction">
-		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.jdt.ui.wizards.JavaProjectWizard"/>
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.jst.servlet.ui.project.facet.WebProjectWizard"/>
 		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.wst.web.ui"/>
 		</list>
 	</section>
 	<section name="SmartImportWizard">
@@ -10,6 +11,17 @@
 		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\Users\adisi\Downloads\phase3\day4\SpringBootWithDataJPA"/>
+			<item value="C:\Users\adisi\Downloads\spring-security"/>
+			<item value="C:\Users\adisi\Documents\vaccination-center-app-main"/>
+			<item value="C:\Users\adisi\Downloads\vaccination-center-app-main"/>
+			<item value="C:\Users\adisi\Downloads\phase3\day6\JunitApp"/>
+			<item value="C:\Users\adisi\Downloads\phase3\day5\RestFulServiceWithJpaApp"/>
+			<item value="C:\eclipse-workspace\UserFeedback"/>
+			<item value="C:\Users\adisi\Downloads\phase3\day3\SpringWebAppWithHibernate"/>
+			<item value="C:\Users\adisi\git\Railway-Crossing-Status"/>
+		</list>
 	</section>
 	<section name="ChooseWorkspaceDialogSettings">
 		<item key="DIALOG_X_ORIGIN" value="220"/>

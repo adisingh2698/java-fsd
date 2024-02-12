@@ -6,11 +6,11 @@ import java.time.LocalDate;
 import java.util.Arrays;
 
 class Theatre {
-    List<List<String>> seats;
+    List<List<String>> seats  = new ArrayList<>();
     List<String> showTime;
 
     Theatre() {
-        seats = new ArrayList<>();
+       
         seats.add(Arrays.asList("A1", "A2", "A3", "A4", "A5"));
         seats.add(Arrays.asList("B1", "B2", "B3", "B4", "B5"));
         seats.add(Arrays.asList("C1", "C2", "C3", "C4", "C5"));
